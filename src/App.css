@@ -1,0 +1,50 @@
+*{
+  /* margin: 0; */
+  /* padding: 0; */
+  background-color:white;
+}
+
+.header h1 {
+  text-align: center;
+  margin: 30px 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  flex-direction: column;
+}
+
+.app-calendar{
+  width: 50vh;
+  color:black;
+}
+.App-header {
+  
+  min-height: 100vh;
+  /* display: flex;
+  text-align: center; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color:black;
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin-left: 550px;
+  margin-top: 200px;
+}
+.app-wrapper{
+  /* background-color: #353434; */
+  /* justify-content: center; */
+  text-align: center;
+  width: 420px;
+  /* margin-right: -10px; */
+  /* min-height: 650px; */
+  padding: 25px;
+  box-shadow: 3px 3px 10px #000000;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
